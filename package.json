@@ -1,6 +1,6 @@
 {
   "name": "@bestsellerit/backstage-plugin-harbor-backend",
-  "version": "${CIRCLE_TAG}",
+  "version": "0.3.3",
   "main": "src/index.ts",
   "types": "src/index.ts",
   "private": false,
